@@ -1,1 +1,3 @@
-config.org
+This is my old configuration, find the latest one at: https://github.com/hegde-atri/doom-emacs-config
+
+onfiguration: config.org
